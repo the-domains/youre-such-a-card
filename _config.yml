@@ -1,0 +1,14 @@
+layout_spectrum: 0.9494343672413379
+typography_spectrum: 0.5347279408015311
+color:
+  brandStrength: 0.15003026113845408
+  lightness: 0.08730808505788445
+  saturation: 0.9797244369983673
+  rhythmicContrast: 0.39489193563349545
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: "You're Such A Card"
