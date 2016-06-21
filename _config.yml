@@ -6,9 +6,11 @@ color:
   saturation: 0.9797244369983673
   rhythmicContrast: 0.39489193563349545
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-name: "You're Such A Card"
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: You're Such A Card
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0846da9-5ce3-406e-8ec9-93dac4f88d2c.png
